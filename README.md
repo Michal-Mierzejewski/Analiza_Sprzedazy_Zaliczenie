@@ -10,3 +10,5 @@ W repozytorium znajdują się:
 
 ### Autor
 [Michał Mierzejewski]
+
+Status: Projekt gotowy do oceny.
